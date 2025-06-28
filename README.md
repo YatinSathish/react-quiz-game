@@ -6,5 +6,3 @@ A ReactJS-based quiz game management system featuring real-time session control,
 
 Navigate to the frontend folder and run `npm install` in that folder to install the ReactJS app. Then run `npm run dev` to start the ReactJS app.
 Open the backend and run `npm start` to start the backend.
-
-DEPLOYED_URL=https://z5524926-bigbrain.vercel.app/
